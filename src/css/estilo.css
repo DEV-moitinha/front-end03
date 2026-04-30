@@ -34,6 +34,13 @@ body{
     transition:opacity 1s ease-in-out;
 }
 
+#imgHero{
+    width:400px;
+    height:400px;
+    border-radius:150%;
+}
+
+
 #titulo{
     background:var(--colorLinear);
     text-align:center;
